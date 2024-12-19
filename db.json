@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+        "id" : 1,
+        "name" : "Caneta Bic Preta",
+        "price" : 5.89
+        },
+        {
+        "id" : 2,
+        "name" : "Lápis 2B",
+        "price" : 1.89
+        },
+        {
+        "id" : 3,
+        "name" : "Caderno 100 folhas",
+        "price" : 15.89
+        },
+        {
+        "id" : 4,
+        "name" : "Borracha",
+        "price" : 0.89
+        },
+        {
+        "id" : 5,
+        "name" : "Apontador",
+        "price" : 1.89
+        }
+    ]
+}
+        
